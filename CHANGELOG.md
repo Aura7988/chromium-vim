@@ -1,6 +1,12 @@
 # cVim Changelog
 # [Like cVim? Consider donating! https://www.paypal.me/1995eaton](https://www.paypal.me/1995eaton)
 
+## 1.3.1 (2020-02-05)
+ * fix: hints broken
+
+## 1.3.0 (2019-09-23)
+ * fix: no cursor in command bar
+
 ## 1.2.99 (2017-12-17)
  * Updated list of `chrome://` completion URLs when `:chrome` is used
  * Fixed issue with `openPasteTab` [#573](https://github.com/1995eaton/chromium-vim/issues/573)
